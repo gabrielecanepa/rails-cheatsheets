@@ -11,3 +11,4 @@ Collection of cheatsheets for Ruby on Rails development covering:
 - [Geocoding](/geocoding.md)
 - [JavaScript](/javascript.md)
 - [Search](/search.md)
+- [WebSockets](/websocket.md)
